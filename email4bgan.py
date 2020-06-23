@@ -205,7 +205,7 @@ def main():
                 print(" 	  ___) | | |___  | |___    \ V /    / ___ \  |_| |_| |_|")
                 print("	 |____/  |_____| |_____|    \_/    /_/   \_\ (_) (_) (_)")
                 print()
-                print('E-MAIL ENVIADO COM SUCESSO!!!')
+                print('E-MAIL ENVIADO COM SUCESSO!!')
                 s.quit()
 
             except:
